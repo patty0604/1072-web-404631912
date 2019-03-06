@@ -1,0 +1,25 @@
+*{/*清空預設，"*"代表所有 */
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: Raleway;
+    font-size: 20px;
+    text-transform: uppercase;/*全部轉成大寫*/
+    font-weight: 800;
+    margin: 1.65%;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    padding-bottom : 15px; 
+}
+#col3 img { /*COL3下面的IMG*/
+    width: 30%;
+    margin: 1.65%;
+    float: left;
+}
+#col4 img { /*COL4下面的IMG*/
+    width: 21%;
+    margin: 1.9%;
+    float: left;
+}
